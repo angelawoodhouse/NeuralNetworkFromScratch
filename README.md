@@ -23,7 +23,7 @@ The project was undertaken using a notebook (first) and refactoring second. If a
 ## How to run this project
 1) Use only the train.csv file provided
 2) Install the required packages using pip install -r requirements.txt
-3) From the terminal, navigate to the project root foler, before executing 'python run.py'
+3) From the terminal, navigate to the project root folder, before executing 'python run.py'
 
 ## Results
-This implementation acheives ~82% accuracy across 500 iterations
+This implementation achieves ~82% accuracy across 500 iterations. This could be improved, however the main goal of this project was to improve understanding rather than achieve perfect results.
