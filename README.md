@@ -9,5 +9,5 @@ Following a guide I hope to:
 The project contains a notebook where I completed the initial work, through trial and error. As well as a fully modular solution with the code refactored in 
 to multiple Python scripts.
 
-This project is being completed using a guide. <br>
+This project notebook was completed with the help of this guide. <br>
 Source: https://www.youtube.com/watch?v=w8yWXqWQYmU
