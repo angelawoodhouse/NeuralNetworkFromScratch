@@ -1,7 +1,7 @@
 # Building a Neural Network From Scratch
 
 This project is being undertaken to bolster my understanding of machine learning. <br>
-Following a guide I hope to:
+From completing this project I hope to:
 - Understand how to build a neural network using NumPy and linear algebra
 - Become more comfortable with the underlying maths involved
 - Learn about the mechanics behind neural networks
